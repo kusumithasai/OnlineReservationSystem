@@ -10,8 +10,8 @@ It is developed using **Java**.
 ## How to Run
 1. Download the project files
 2. Open in any Java IDE
-3. Compile the Java file: javac OnlineReservaionSystem.java
-4. Run the program: java OnlineReservationSystem
+3. Compile the Java file: javac ReservaionSystem.java
+4. Run the program: java ReservationSystem
 5. Default Login: admin / 1234
 
 6. sample PNR for cancellation:12345678
